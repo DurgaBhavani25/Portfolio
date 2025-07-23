@@ -4,7 +4,7 @@
 
 Welcome to my personal portfolio website! This site showcases who I am, my technical skills, and the projects I’ve built as a final-year B.Tech student in Artificial Intelligence and Data Science.
 
-🔗 **Live Demo:** [Visit Portfolio](https://your-portfolio-link.com)  
+🔗 **Live Demo:** [Visit Portfolio]( https://durgabhavani25.github.io/Portfolio/)  
 📧 **Email:** durgabhavanipoosarla@gmail.com  
 🔗 **LinkedIn:** [poosarla-durga-bhavani](https://linkedin.com/in/poosarla-durga-bhavani-4362aa26a)
 
